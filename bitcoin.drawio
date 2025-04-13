@@ -382,9 +382,6 @@
             <mxPoint x="390" y="-290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cNhhKtihBPQ82FRr4cSZ-198" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Merge Info&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="226" y="-310" width="74" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
