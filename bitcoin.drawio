@@ -126,7 +126,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cNhhKtihBPQ82FRr4cSZ-74" value="Position Recommendation" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="80" width="320" height="230" as="geometry" />
+          <mxGeometry x="450" y="140" width="320" height="230" as="geometry" />
         </mxCell>
         <mxCell id="cNhhKtihBPQ82FRr4cSZ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="cNhhKtihBPQ82FRr4cSZ-74" source="cNhhKtihBPQ82FRr4cSZ-79" target="cNhhKtihBPQ82FRr4cSZ-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
