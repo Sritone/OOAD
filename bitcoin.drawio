@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15" version="26.2.12">
   <diagram name="페이지-1" id="_yYYKU7SeKHebpRDZLGS">
-    <mxGraphModel dx="709" dy="1575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="198" dy="1283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -334,8 +334,7 @@
             <mxPoint x="767" y="-370" as="targetPoint" />
             <mxPoint x="289.20458146424494" y="228.78679656440363" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="359" y="229" />
-              <mxPoint x="370" y="229" />
+              <mxPoint x="370" y="239" />
               <mxPoint x="370" y="110" />
               <mxPoint x="770" y="110" />
               <mxPoint x="770" y="-210" />
